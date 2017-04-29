@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<resources>
+    <resource>
+        <id>0001</id>
+        <mp3.name>first-mp3.mp3</mp3.name>
+        <mp3.size>268579</mp3.size>
+        <lrc.name>first-text.lrc</lrc.name>
+        <lrc.size>610</lrc.size>
+    </resource>
+
+    <resource>
+        <id>0002</id>
+        <mp3.name>second-mp3.mp3</mp3.name>
+        <mp3.size>2381241</mp3.size>
+        <lrc.name>second-text.lrc</lrc.name>
+        <lrc.size>3159</lrc.size>
+    </resource>
+</resources>
