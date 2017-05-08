@@ -37,13 +37,4 @@
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Vincent.mp3</mp3.link>
     </resource>
 
-    <resource>
-        <id>0005</id>
-        <mp3.name>Walking In The Air.mp3</mp3.name>
-        <mp3.size>3.4M</mp3.size>
-        <lrc.name>Walking In The Air.lrc</lrc.name>
-        <lrc.size>1KB</lrc.size>
-        <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Walking%20In%20The%20Air.mp3</mp3.link>
-    </resource>
-
 </resources>
