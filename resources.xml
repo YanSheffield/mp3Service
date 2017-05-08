@@ -25,7 +25,7 @@
         <mp3.size>4.2M</mp3.size>
         <lrc.name>Tears In Heaven.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
-        <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-mp3.mp3</mp3.link>
+        <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Tears%20In%20Heaven.mp3</mp3.link>
     </resource>
 
     <resource>
@@ -34,7 +34,7 @@
         <mp3.size>3.9M</mp3.size>
         <lrc.name>Vincent.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
-        <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-mp3.mp3</mp3.link>
+        <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Vincent.mp3</mp3.link>
     </resource>
 
     <resource>
@@ -43,7 +43,7 @@
         <mp3.size>3.4M</mp3.size>
         <lrc.name>Walking In The Air.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
-        <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-mp3.mp3</mp3.link>
+        <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Walking%20In%20The%20Air.mp3</mp3.link>
     </resource>
 
 </resources>
