@@ -7,6 +7,7 @@
         <lrc.name>first-text.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-mp3.mp3</mp3.link>
+        <lrc.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-text.lrc</lrc.link>
     </resource>
 
     <resource>
@@ -16,6 +17,7 @@
         <lrc.name>second-text.lrc</lrc.name>
         <lrc.size>3KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/second-mp3.mp3</mp3.link>
+        <lrc.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/second-text</lrc.link>
     </resource>
 
 
@@ -26,6 +28,7 @@
         <lrc.name>Tears In Heaven.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Tears%20In%20Heaven.mp3</mp3.link>
+        <lrc.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Tears%20In%20Heaven.lrc</lrc.link>
     </resource>
 
     <resource>
@@ -35,6 +38,7 @@
         <lrc.name>Vincent.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Vincent.mp3</mp3.link>
+        <lrc.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Vincent.lrc</lrc.link>
     </resource>
 
 </resources>
