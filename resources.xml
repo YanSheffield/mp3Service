@@ -15,4 +15,45 @@
         <lrc.name>second-text.lrc</lrc.name>
         <lrc.size>3159</lrc.size>
     </resource>
+
+    <resource>
+        <id>0003</id>
+        <mp3.name>Sailing.mp3</mp3.name>
+        <mp3.size>10.6M</mp3.size>
+        <lrc.name>Sailing.lrc</lrc.name>
+        <lrc.size>1KB</lrc.size>
+    </resource>
+
+    <resource>
+        <id>0004</id>
+        <mp3.name>My Heart Will Go On.mp3</mp3.name>
+        <mp3.size>11.1M</mp3.size>
+        <lrc.name>My Heart Will Go On.lrc</lrc.name>
+        <lrc.size>1KB</lrc.size>
+    </resource>
+
+    <resource>
+        <id>0005</id>
+        <mp3.name>Tears In Heaven.mp3</mp3.name>
+        <mp3.size>4.2M</mp3.size>
+        <lrc.name>Tears In Heaven.lrc</lrc.name>
+        <lrc.size>1KB</lrc.size>
+    </resource>
+
+    <resource>
+        <id>0006</id>
+        <mp3.name>Vincent.mp3</mp3.name>
+        <mp3.size>3.9M</mp3.size>
+        <lrc.name>Vincent.lrc</lrc.name>
+        <lrc.size>1KB</lrc.size>
+    </resource>
+
+    <resource>
+        <id>0007</id>
+        <mp3.name>Walking In The Air.mp3</mp3.name>
+        <mp3.size>3.4M</mp3.size>
+        <lrc.name>Walking In The Air.lrc</lrc.name>
+        <lrc.size>1KB</lrc.size>
+    </resource>
+
 </resources>
