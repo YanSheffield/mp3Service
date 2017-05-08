@@ -3,17 +3,17 @@
     <resource>
         <id>0001</id>
         <mp3.name>first-mp3.mp3</mp3.name>
-        <mp3.size>268579</mp3.size>
+        <mp3.size>2.6M</mp3.size>
         <lrc.name>first-text.lrc</lrc.name>
-        <lrc.size>610</lrc.size>
+        <lrc.size>1KB</lrc.size>
     </resource>
 
     <resource>
         <id>0002</id>
         <mp3.name>second-mp3.mp3</mp3.name>
-        <mp3.size>2381241</mp3.size>
+        <mp3.size>2.3M</mp3.size>
         <lrc.name>second-text.lrc</lrc.name>
-        <lrc.size>3159</lrc.size>
+        <lrc.size>3KB</lrc.size>
     </resource>
 
     <resource>
