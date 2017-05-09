@@ -3,7 +3,7 @@
     <resource>
         <id>0001</id>
         <mp3.name>first.mp3</mp3.name>
-        <mp3.size>2.6M</mp3.size>
+        <mp3.size>0.26 M</mp3.size>
         <lrc.name>first.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-mp3.mp3</mp3.link>
@@ -13,7 +13,7 @@
     <resource>
         <id>0002</id>
         <mp3.name>second.mp3</mp3.name>
-        <mp3.size>2.3M</mp3.size>
+        <mp3.size>2.29 M</mp3.size>
         <lrc.name>second.lrc</lrc.name>
         <lrc.size>3KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/second-mp3.mp3</mp3.link>
@@ -24,7 +24,7 @@
     <resource>
         <id>0003</id>
         <mp3.name>Tears In Heaven.mp3</mp3.name>
-        <mp3.size>4.2M</mp3.size>
+        <mp3.size>4.07 M</mp3.size>
         <lrc.name>Tears In Heaven.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Tears%20In%20Heaven.mp3</mp3.link>
@@ -34,7 +34,7 @@
     <resource>
         <id>0004</id>
         <mp3.name>Vincent.mp3</mp3.name>
-        <mp3.size>3.9M</mp3.size>
+        <mp3.size>3.7 M</mp3.size>
         <lrc.name>Vincent.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/Vincent.mp3</mp3.link>
