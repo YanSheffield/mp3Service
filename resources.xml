@@ -2,9 +2,9 @@
 <resources>
     <resource>
         <id>0001</id>
-        <mp3.name>first-mp3.mp3</mp3.name>
+        <mp3.name>first.mp3</mp3.name>
         <mp3.size>2.6M</mp3.size>
-        <lrc.name>first-text.lrc</lrc.name>
+        <lrc.name>first.lrc</lrc.name>
         <lrc.size>1KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-mp3.mp3</mp3.link>
         <lrc.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/first-text.lrc</lrc.link>
@@ -12,9 +12,9 @@
 
     <resource>
         <id>0002</id>
-        <mp3.name>second-mp3.mp3</mp3.name>
+        <mp3.name>second.mp3</mp3.name>
         <mp3.size>2.3M</mp3.size>
-        <lrc.name>second-text.lrc</lrc.name>
+        <lrc.name>second.lrc</lrc.name>
         <lrc.size>3KB</lrc.size>
         <mp3.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/second-mp3.mp3</mp3.link>
         <lrc.link>https://raw.githubusercontent.com/YanSheffield/mp3Service/master/second-text</lrc.link>
